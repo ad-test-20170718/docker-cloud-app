@@ -1,6 +1,9 @@
-# Dummy docker cloud app
+# Docker cloud app
 
-Simple Hello World! application demonstrating a simple automated cloud deployment.
+Simple Hello World! application demonstrating an automated cloud deployment.
+
+Tested on:
+  * 4.11.9-1-ARCH
 
 # Running locally (without Docker)
 
